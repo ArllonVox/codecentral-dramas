@@ -10,32 +10,8 @@
             "max_dispositivos": 3,
             "ativa": true
         },
-        "VIP2024": {
-            "max_dispositivos": 2,
-            "ativa": true
-        },
-        "PREMIUM": {
-            "max_dispositivos": 3,
-            "ativa": true
-        },
-        "CENTRAL01": {
-            "max_dispositivos": 2,
-            "ativa": true
-        },
-        "BLACKGOLD": {
-            "max_dispositivos": 5,
-            "ativa": true
-        },
-        "DRAMA007": {
-            "max_dispositivos": 3,
-            "ativa": true
-        },
-        "VIP999": {
-            "max_dispositivos": 3,
-            "ativa": true
-        },
-        "ARLLONVOX": {
-            "max_dispositivos": 10,
+        "cavalo": {
+            "max_dispositivos": 0,
             "ativa": true
         },
         "TESTE123": {
