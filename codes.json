@@ -11,7 +11,7 @@
             "ativa": true
         },
         "CAVALO": {
-            "max_dispositivos": 0,
+            "max_dispositivos": 1,
             "ativa": true
         },
         "TESTE123": {
