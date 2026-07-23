@@ -10,7 +10,7 @@
             "max_dispositivos": 3,
             "ativa": true
         },
-        "cavalo": {
+        "CAVALO": {
             "max_dispositivos": 0,
             "ativa": true
         },
