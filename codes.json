@@ -1,19 +1,46 @@
 {
-  "codes": {
-    "DRAMA2024": {
-      "active": true,
-      "maxDevices": 1,
-      "devices": []
-    },
-    "VIP2024": {
-      "active": true,
-      "maxDevices": 3,
-      "devices": []
-    },
-    "PUBLICO": {
-      "active": true,
-      "maxDevices": 0,
-      "devices": []
+    "versao": "1.0.0",
+    "ultima_atualizacao": "2026-07-22",
+    "codes": {
+        "DRAMA2024": {
+            "max_dispositivos": 3,
+            "ativa": true
+        },
+        "GOLD001": {
+            "max_dispositivos": 3,
+            "ativa": true
+        },
+        "VIP2024": {
+            "max_dispositivos": 2,
+            "ativa": true
+        },
+        "PREMIUM": {
+            "max_dispositivos": 3,
+            "ativa": true
+        },
+        "CENTRAL01": {
+            "max_dispositivos": 2,
+            "ativa": true
+        },
+        "BLACKGOLD": {
+            "max_dispositivos": 5,
+            "ativa": true
+        },
+        "DRAMA007": {
+            "max_dispositivos": 3,
+            "ativa": true
+        },
+        "VIP999": {
+            "max_dispositivos": 3,
+            "ativa": true
+        },
+        "ARLLONVOX": {
+            "max_dispositivos": 10,
+            "ativa": true
+        },
+        "TESTE123": {
+            "max_dispositivos": 1,
+            "ativa": true
+        }
     }
-  }
 }
